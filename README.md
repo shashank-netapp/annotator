@@ -1,2 +1,2 @@
-# annotator-
+# annotator
 Collects marker
